@@ -1,0 +1,1 @@
+# midway-mock-sample
